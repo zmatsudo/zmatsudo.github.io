@@ -4,7 +4,7 @@ type: project
 image: uhm-lowercampus-waikiki-1024x576.jpg
 title: "Portfolio"
 date: 2022-30-08
-published: true
+published: False
 labels:
   - Projects
   - Essays
