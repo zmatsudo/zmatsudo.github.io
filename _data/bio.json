@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Zachary Matsudo",
-    "label": "Student",
+    "label": "Shidler Undergraduate",
     "picture": "https://github.com/zmatsudo.png",
     "email": "zmatsudo@hawaii.edu",
     "phone": "808-388-4760",
@@ -18,13 +18,13 @@
   "interests": [
     { "name": "Basketball" },
     { "name": "Traveling" },
-    { "name": "Data Analysis" }
+    { "name": "Cybersecurity" }
     
   ],
   "skills": [
     {
-      "name": "Problem solving and teamwork",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages and Framework",
+      "keywords": [ "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
@@ -49,10 +49,9 @@
       "website": "",
       "startDate": "2021-06-01",
       "endDate": "Present",
-      "summary": "Pack and Ship online orders",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Pack and Ship online orders",
       ]
     },
   ],
@@ -75,14 +74,11 @@
     {
       "title": "Scholarship",
       "date": "2021-2022",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "awarder": "University of Hawaii",
+      "summary": "Business scholarship for maintaining a GPA of 3.5 or greater"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+     
     }
   ],
   "references": [
