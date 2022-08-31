@@ -9,4 +9,4 @@ labels:
   - Software Engineering
   - Learning
 ---
-I decided to major in MIS because I have an interest in technology and enjoy using computers. I also see that technology is always advancing so learning some code would help me in the future. 
+I decided to major in MIS because I have an interest in technology and enjoy using computers. I have always wanted to learn how to code because I beleive it will be a very useful skill in the future.
