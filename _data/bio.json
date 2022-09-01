@@ -10,18 +10,17 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "zmatsudo", "url": "http://github.com/zmatsudo" },
-      { "network": "linkedin", "username": "zachmatsudo", "url": "https://www.linkedin.com/in/zachary-matsudo-8a75ab213/" },
-    
-  
-  "interests", [
+      { "network": "linkedin", "username": "zachmatsudo", "url": "https://www.linkedin.com/in/zachary-matsudo-8a75ab213/" }
+    ]
+  },
+  "interests": [
     { "name": "Basketball" },
     { "name": "Traveling" },
     { "name": "Cybersecurity" }
-    
   ],
-  "skills", [
+  "skills": [
     {
-      "name": "Languages and Framework",
+     "name": "Languages and Framework",
       "keywords": [ "Javascript" ]
     },
     {
@@ -29,7 +28,7 @@
       "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
-  "education", [
+  "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Business (expected Spring, 2024)",
@@ -40,7 +39,7 @@
       ]
     }
   ],
-  "work", [
+  "work": [
     {
       "company": "Target",
       "position": "Fulfillment Expert",
@@ -49,11 +48,12 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Pack and Ship online orders",
-      
-    
-  
-  "volunteer", [
+        "Pack and Ship online orders"
+      ]
+    }
+   
+  ],
+  "volunteer": [
     {
       "organization": "Great Aloha Run",
       "website": "http://manoa.hawaii.edu/reis",
@@ -66,15 +66,18 @@
         "Maintain custom data collection and storage infrastructure"
       ]
     },
-   
-  
-  "awards", [
+  ],
+  "awards": [
     {
       "title": "Scholarship",
       "date": "2021-2022",
       "awarder": "University of Hawaii",
       "summary": "Business scholarship for maintaining a GPA of 3.5 or greater"
     },
+  ],
+  "references": [
     {
-     
+      "name": "Available upon request"
     }
+  ]
+}
