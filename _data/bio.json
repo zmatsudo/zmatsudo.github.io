@@ -65,7 +65,8 @@
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
-    },
+    }
+  
   ],
   "awards": [
     {
@@ -73,7 +74,7 @@
       "date": "2021-2022",
       "awarder": "University of Hawaii",
       "summary": "Business scholarship for maintaining a GPA of 3.5 or greater"
-    },
+    }
   ],
   "references": [
     {
@@ -81,3 +82,4 @@
     }
   ]
 }
+      
