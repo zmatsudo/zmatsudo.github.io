@@ -1,0 +1,17 @@
+---
+layout: essay
+type: essay
+title: "E3: Preparing for WODs Technical Essay"
+# All dates must be YYYY-MM-DD format!
+date: 2022-09-28
+published: true
+labels:
+  - MIS
+---
+  For invoice 2 I was required to add a new column in the reciept for shipping costs. Then I needed to use if, else if, else statements to calculate what the shipping costs would be depending on the amount of the sub-total. 
+  
+   Invoice 2 overall was not too challenging and only took me two attempts to finish. I was also able to finish pretty fast during my last attempt since there was not much tasks to complete. What worked well for me was creating more rows in the table and also using the document.write command. I am getting used to using the document.wrtie command and am understanding why it is good to use. Something that slowed me down was the if, else if, else statement. At first I was not too sure how this should be formatted which caused me problems. But after seeing the video and learning how to format the if, else if statement I was able to comeplete that task. 
+
+  To prepare for this lab I first read some of the readings that correspond to this unit and this is something similar that I did with the previous WODs. I did not really do anything differently this time since I usually just do the readings and start my first attempt. 
+  
+  To better prepare for the WODs I should be reviewing the labs that were done in class since a lot of the tasks for WODs are similar to the ones on the lab. This definelty would have helped me with the if, else if statements because I would have an example to look at. I will continue to read whatever is assigned for that unit since its a good refresher for me to remember what the unit was about and how these codes are used. 
